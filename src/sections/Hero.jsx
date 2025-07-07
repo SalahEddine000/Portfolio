@@ -1,5 +1,5 @@
 import Profile from "../assets/profile.png";
-import ProfileDark from "../assets/ProfileDark.png";
+import ProfileDark from "../assets/profileDark.png";
 import { useThemeStore } from "../store/ThemeStore";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
