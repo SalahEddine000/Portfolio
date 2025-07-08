@@ -97,7 +97,7 @@ const Hero = () => {
                   scale={0.9}
                 />
                 <button className="cursor-pointer font-noto relative inline-flex items-center gap-1 rounded-md bg-background px-4 py-2 sm:px-6 sm:py-3 text-sm sm:text-base text-foreground outline-1 outline-[#fff2f21f]">
-                  <a href="/Portfolio/CV/SalahEddineSoussi.pdf" target="_blank">
+                  <a href="/CV/SalahEddineSoussi.pdf" target="_blank">
                     Get Resume
                   </a>
                 </button>
